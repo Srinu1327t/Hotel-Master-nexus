@@ -1,0 +1,35 @@
+WELCOME TO THE HOTEL MASTER NEXUS
+
+Hotel Management :
+1. Display available hotels
+2. Book a room
+3. Display booking records
+4. Exit
+Enter your choice: 1
+Available Hotels:
+Hotel PK: Rooms available: 10, Price per night: $100
+Hotel MSD: Rooms available: 20, Price per night: $120
+Hotel NBK: Rooms available: 15, Price per night: $150
+Hotel CBN: Rooms available: 12, Price per night: $200
+Hotel JSP: Rooms available: 8, Price per night: $250
+
+Hotel Management :
+1. Display available hotels
+2. Book a room
+3. Display booking records
+4. Exit
+Enter your choice: 2
+Enter hotel name to book: Hotel MSD
+Enter your name: SRINU
+Enter check-in date (YYYY-MM-DD): 2024-06-11
+Enter check-out date (YYYY-MM-DD): 2024-06-12
+Total price for 1 nights: $120
+Confirm booking (yes/no): yes
+Booking confirmed.
+
+Hotel Management :
+1. Display available hotels
+2. Book a room
+3. Display booking records
+4. Exit
+Enter your choice:
